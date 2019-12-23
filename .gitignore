@@ -1,0 +1,5 @@
+.vscode
+.auth
+auth.js
+keys.js
+node_modules/
